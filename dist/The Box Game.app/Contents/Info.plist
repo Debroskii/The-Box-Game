@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>The Box Game</string>
+	<key>CFBundleExecutable</key>
+	<string>The Box Game</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-6cf0925db82ec389e4d6c59a16f0c5da435ca2b24a8fc2aaf19fcd6c449a0492.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>The Box Game</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>The Box Game</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
